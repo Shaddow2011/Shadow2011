@@ -16,7 +16,7 @@ Estudiante apasionada por el desarrollo web. Me gusta crear cosas desde cero y a
 
 📚 Aprendiendo: `Figma` · `Obsidian` · `Blender` · `Affinity`
 
----
+-----
 
 ## 📊 Mis estadísticas
 
